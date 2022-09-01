@@ -36,10 +36,10 @@
   - remember: main goal not to solve, but learn when solving, so no over-investing effort here
 
 * git, VS code, command line
-  - create repo for messing with git functionality only purpose, call some falks from contrast-ratio to mess around with it together
+  - create repo for messing with git functionality only purpose, call some folks from contrast-ratio to mess around with it together
   - all stuff you are doing with mouse - try to do with keyboard from time to time
   - learn more about debugging in VS code
-  - recall VS code snippet stuff, start to use snippets when you have an idea for them
+  - recall VS code snippet stuff, start to use snippets, when you have an idea for them
 
 
 
